@@ -1,0 +1,7 @@
+Tower C must be connected before tower A
+Tower C must be connected before tower F.
+Tower A must be connected before tower B.
+Tower A must be connected before tower D.
+Tower B must be connected before tower E.
+Tower D must be connected before tower E.
+Tower F must be connected before tower E.
